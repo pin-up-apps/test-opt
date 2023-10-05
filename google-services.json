@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654685949983",
+    "project_id": "pin-upcasinospa",
+    "storage_bucket": "pin-upcasinospa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654685949983:android:b71b4c6bf29602c647852a",
+        "android_client_info": {
+          "package_name": "com.spa.pin.up.off"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654685949983-i7s3sd8vca2sjgu7r5uleqm3dqkqlpko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDipUMnkXQfpxvdf-GdIB5D4A2c75u7lXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654685949983-i7s3sd8vca2sjgu7r5uleqm3dqkqlpko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
