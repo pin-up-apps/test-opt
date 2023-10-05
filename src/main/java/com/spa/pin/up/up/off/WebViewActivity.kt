@@ -14,7 +14,7 @@ class WebViewActivity : AppCompatActivity() {
         var urlK: String = ""
     }
 
-    private val binding by lazy {
+    private val binding by lazy  {
         ActivityWebViewBinding.inflate(layoutInflater)
     }
 
